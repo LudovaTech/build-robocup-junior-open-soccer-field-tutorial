@@ -38,7 +38,8 @@ The goals adhere to more precise dimensions. A goal is composed of:
 - One board for the top of the goals with the following dimensions: **64 x 4 x 1,8 cm**
 
 ![goal](./img/goal.png)
-> ☝️ To make your life easier, you can ask a hardware store to do the cutting for you.
+> [!TIP]
+> To make your life easier, you can ask a hardware store to do the cutting for you.
 
 The carpet respects the dimensions of the conventional field but has margins of 3 cm on each side. So, here are its dimensions: **188 x 249 cm**.
 
@@ -48,14 +49,16 @@ The hinges used to attach the boards together have a height of **less than 15 cm
 To secure the boards next to each other, we used **metal hinges** capable of unfolding to 180°. These hinges are attached to the boards with **screws** of length **less than 1.8 cm**. \
 For the width, a single hinge is used to attach the two boards each 93 cm long. \
 For the length, two hinges are used. Attach the first two boards, each 81 cm long, with one hinge, then attach the second board to a third board with a hinge placed on the **opposite side** to the wall of the first hinge.
-> ⚠️⚠️⚠️ Make sure to position the hinges between the boards accurately and orient them precisely in the width direction. \
-> ⚠️⚠️⚠️ When you fold the lengthwise boards, they should form a 'Z' shape.
+> [!WARNING]
+> Make sure to position the hinges between the boards accurately and orient them precisely in the width direction. \
+> When you fold the lengthwise boards, they should form a 'Z' shape.
 ![z](./img/z.jpg)
 
 Now that the walls are created, they need to be assembled together. We used a different type of hinge for this: **butt hinges**. These hinges must be fixed in all four interior corners of the field. For the widths, install the butt hinges on the same side as the other hinges. The choice of side for the lengths does not matter.
-> ⚠️⚠️⚠️ The widths of the field must frame the lengths. This means the ends of the lengths must touch the inside edges of the widths. \
-> ⚠️⚠️⚠️ Ensure you consider the size of your butt hinges and position them correctly so they can interlock smoothly without any issues. \
-> ⚠️⚠️⚠️ Position the butt hinges at the same height so that any width can be fixed to any length.
+> [!WARNING]
+> The widths of the field must frame the lengths. This means the ends of the lengths must touch the inside edges of the widths. \
+> Ensure you consider the size of your butt hinges and position them correctly so they can interlock smoothly without any issues. \
+> Position the butt hinges at the same height so that any width can be fixed to any length.
 
 ![assemblage](./img/assemblage.png)
 
@@ -67,12 +70,14 @@ For creating the goals, we used **wood glue** and **nails**. Apply glue along th
 We painted the walls and goals using **spray cans** of color. **Matte** black was used for the walls and the backs of the goals to minimize reflections as much as possible. For the goals, bright yellow and light blue were applied. Finally, after the paint on the walls dried, we drew our logos using a white marker and stencils.
 ![logos](./img/terrain_mur.jpg)
 
-> ☝️ For painting the goals, you can cover the already painted surfaces with masking tape to prevent accidental staining or repainting. \
-> ☝️ Consider applying multiple layers for a better result. \
-> ☝️ You can create your own stencils by cutting out a sheet with your logo printed on it.
+> [!TIP]
+> For painting the goals, you can cover the already painted surfaces with masking tape to prevent accidental staining or repainting. \
+> Consider applying multiple layers for a better result. \
+> You can create your own stencils by cutting out a sheet with your logo printed on it.
 
 
 Since our robot doesn't use lines on the field for navigation, we didn't need to recreate them. However, if you need them, you can neatly trace the edges of the lines with a pen and then paint them with a brush or paint roller using white paint.
+> [!TIP]
 > ☝️ You can still use masking tape to enhance the final result.
 
 ## Assembly and transport
