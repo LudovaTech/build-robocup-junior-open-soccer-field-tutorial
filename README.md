@@ -9,21 +9,20 @@
 - [Fasteners](#fasteners)
 - [Paint and logos](#paint-and-logos)
 - [Assembly and transport](#assembly-and-transport)
+- [License](#license)
 
 ## Intro
 To conduct our tests under the **best conditions**, we decided to create our own field. The goal is to adhere precisely to the dimensions of conventional fields and to be easily **transportable**. We will now outline our entire construction process so that you can reproduce it **yourself**.
 
 ## Materials
-For the construction of the walls and goals, we decided to use **pine/fir** wood. This type of wood is strong enough for our purposes and is very easy to transport due to its light weight.
-
-
-The field area itself is simply a piece of **carpet** that we cut and stitched according to the conventional competition dimensions. We chose it for its green color and durability. However, it is quite heavy, so it is advisable to find a thinner carpet.
-
-Finally, the hinges to be used are **metal** for added strength.
-
+For the construction of the walls and goals, we decided to use **pine/fir** wood. This type of wood is strong enough for our purposes and is very easy to transport due to its light weight. \
 <img src="./img/bois.jpg" alt="drawing" height="170"/>
-<img src="./img/charniere.jpg" alt="drawing" height="170"/>
+
+The field area itself is simply a piece of **carpet** that we cut and stitched according to the conventional competition dimensions. We chose it for its green color and durability. However, it is quite heavy, so it is advisable to find a thinner carpet. \
 <img src="./img/tapis.jpg" alt="drawing" height="170"/>
+
+Finally, the hinges to be used are **metal** for added strength. \
+<img src="./img/charniere.jpg" alt="drawing" height="170"/>
 
 ## Dimensions
 During the design of our field, we decided to create walls that could fold, unfold, and interlock easily. Therefore, we chose to cut the longer walls into three parts of the same dimensions: **81 x 15 x 1,8 cm**.
@@ -61,6 +60,7 @@ Now that the walls are created, they need to be assembled together. We used a di
 > Position the butt hinges at the same height so that any width can be fixed to any length.
 
 ![assemblage](./img/assemblage.png)
+![corner](./img/coin.jpg)
 
 For creating the goals, we used **wood glue** and **nails**. Apply glue along the thickness of the two smaller side boards, then attach them to the back board of the goals. Next, glue the last prepared board onto the tops of the goals. After the glue has dried, reinforce the goals by driving nails perpendicularly through the glued surfaces.
 ![goal](./img/goal2.png)
@@ -68,7 +68,8 @@ For creating the goals, we used **wood glue** and **nails**. Apply glue along th
 
 ## Paint and logos
 We painted the walls and goals using **spray cans** of color. **Matte** black was used for the walls and the backs of the goals to minimize reflections as much as possible. For the goals, bright yellow and light blue were applied. Finally, after the paint on the walls dried, we drew our logos using a white marker and stencils.
-![logos](./img/terrain_mur.jpg)
+![logo1](./img/logo1.jpg)
+![logo2](./img/logo2.jpg)
 
 > [!TIP]
 > For painting the goals, you can cover the already painted surfaces with masking tape to prevent accidental staining or repainting. \
@@ -83,6 +84,7 @@ Since our robot doesn't use lines on the field for navigation, we didn't need to
 ## Assembly and transport
 Now that the walls, goals, and floor are done, you can transport and assemble your field anywhere! 🥳 Simply unroll your green carpet, unfold the walls, assemble them, and place the goals! All the equipment for the field can easily fit into one or two large bags!
 ![field2](./img/vuedessus.jpg)
+![tidy](./img/range.jpg)
 
 ## License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/LudovaTech/build-robocup-junior-open-soccer-field-tutorial">build-robocup-junior-open-soccer-field-tutorial</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/LudovaTech">LudovaTech (Gandalfph)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
