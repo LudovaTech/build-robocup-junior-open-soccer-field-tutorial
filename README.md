@@ -78,8 +78,11 @@ We painted the walls and goals using **spray cans** of color. **Matte** black wa
 
 Since our robot doesn't use lines on the field for navigation, we didn't need to recreate them. However, if you need them, you can neatly trace the edges of the lines with a pen and then paint them with a brush or paint roller using white paint.
 > [!TIP]
-> ☝️ You can still use masking tape to enhance the final result.
+> You can still use masking tape to enhance the final result.
 
 ## Assembly and transport
 Now that the walls, goals, and floor are done, you can transport and assemble your field anywhere! 🥳 Simply unroll your green carpet, unfold the walls, assemble them, and place the goals! All the equipment for the field can easily fit into one or two large bags!
 ![field2](./img/vuedessus.jpg)
+
+## License
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/LudovaTech/build-robocup-junior-open-soccer-field-tutorial">build-robocup-junior-open-soccer-field-tutorial</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/LudovaTech">LudovaTech (Gandalfph)</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
