@@ -12,16 +12,16 @@
 - [License](#license)
 
 ## Intro
-To conduct our tests under the **best conditions**, we decided to create our own field. The goal is to adhere precisely to the dimensions of conventional fields and to be easily **transportable**. We will now outline our entire construction process so that you can reproduce it **yourself**.
+To conduct our tests under the **best conditions**, we decided to create our own soccer field. The goal is to precisely adhere to the dimensions of conventional RoboCup Junior fields and to be easily **transportable**. We will now outline our entire construction process so that you can reproduce it **yourself**.
 
 ## Materials
-For the construction of the walls and goals, we decided to use **pine/fir** wood. This type of wood is strong enough for our purposes and is very easy to transport due to its light weight. \
+For the construction of the walls and goals, we decided to use **pine/fir** wood. This type of wood is strong enough for our purposes and is very easy to transport due to its low weight. \
 <img src="./img/bois.jpg" alt="drawing" height="170"/>
 
-The field area itself is simply a piece of **carpet** that we cut and stitched according to the conventional competition dimensions. We chose it for its green color and durability. However, it is quite heavy, so it is advisable to find a thinner carpet. \
+The field surface itself is simply a piece of **carpet** that we cut and stitched according to the conventional competition dimensions. We chose it for its green color and durability. However, it is quite heavy, so it is advisable to find a thinner carpet. \
 <img src="./img/tapis.jpg" alt="drawing" height="170"/>
 
-Finally, the hinges to be used are **metal** for added strength. \
+Finally, the hinges are made out of **metal** for added strength. \
 <img src="./img/charniere.jpg" alt="drawing" height="170"/>
 
 ## Dimensions
